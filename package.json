@@ -1,0 +1,22 @@
+{
+  "name": "sinewave",
+  "version": "1.0.0",
+  "description": "Simple nodejs object for generating sinewaves",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diversen/sinewave.git"
+  },
+  "keywords": [
+    "sinewave"
+  ],
+  "author": "Dennis Iversen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diversen/sinewave/issues"
+  },
+  "homepage": "https://github.com/diversen/sinewave#readme"
+}

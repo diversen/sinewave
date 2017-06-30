@@ -12,7 +12,7 @@ See [index.js](index.js)
 
 See [test.js](test.js)
 
-A practical demo: 
+Usage example: 
 
 See: https://codepen.io/diversen/pen/qjoWjb
 
