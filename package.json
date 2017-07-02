@@ -1,6 +1,6 @@
 {
   "name": "sinewave",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Simple nodejs object for generating sinewaves",
   "main": "index.js",
   "scripts": {
